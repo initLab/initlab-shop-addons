@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: init Lab Shop Addons\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-10-16 16:05+0000\n"
-"PO-Revision-Date: 2025-10-16 16:08+0000\n"
+"PO-Revision-Date: 2025-10-18 00:56+0000\n"
 "Last-Translator: Венцислав Атанасов\n"
 "Language-Team: Bulgarian\n"
 "Language: bg_BG\n"
@@ -46,6 +46,10 @@ msgstr "Плащане на поръчката с карта"
 #: woocommerce.php:44
 msgid "Pay the order in cash"
 msgstr "Плащане на поръчката в брой"
+
+#: woocommerce.php:92
+msgid "Please confirm CASH payment"
+msgstr "Моля потвърдете плащане В БРОЙ"
 
 #. Author of the plugin
 msgid "Vencislav Atanasov"
